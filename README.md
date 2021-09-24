@@ -8,7 +8,6 @@
 ### 💻 &nbsp;About Me 
 
 - 💻 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Software Engineering at Coventry University.
 - ✉️ &nbsp; How to reach me - dulan418@gmail.com.
 
 <br>
