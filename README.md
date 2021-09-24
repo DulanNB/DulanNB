@@ -7,7 +7,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 💻 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Studying Software Engineering at Coventry University.
 
 
@@ -15,7 +15,19 @@
 
 
 
+<hr>
+                                                                                    
 
+<br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DulanNB&theme=oldie" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<hr>
 
 
 ### 💻 Stack I Work With
@@ -59,62 +71,30 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25">
 </p>
 
-<!-- <br>
-
-
- -->
-
-
-
-
-
-<!-- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br> -->
-
-  
-  
+<hr>
   
 <table border="0" align="center">
 <tr border="0">
-<!-- <td width="50%" align="center">
+<td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DulanNB&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
+</td> 
+ <td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DulanNB&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
-</td> -->
-
-<!-- <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td> -->
+  </td> 
 </tr>
+
 </table>
 
 <br>
-
-<hr>
-                                                                                    
-
 <br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DulanNB&theme=oldie" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<br>
-
  <hr>
  <br> 
-
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
@@ -132,7 +112,6 @@
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
-  
 <br>
   
 
