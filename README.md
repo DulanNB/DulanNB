@@ -9,23 +9,9 @@
 
 - 💻 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Studying Software Engineering at Coventry University.
-
-
-<br>
-
-
-
-<hr>
-                                                                                    
+- ✉️ &nbsp; How to reach me - dulan418@gmail.com.
 
 <br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DulanNB&theme=oldie" alt="TROPHY" />
-    </a>
-</div>
-</p>
 
 <hr>
 
@@ -70,10 +56,19 @@
   
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25">
 </p>
-
-<hr>
   
-<table border="0" align="center">
+  <hr>
+                                                                                    
+
+<br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DulanNB&theme=oldie" alt="TROPHY" />
+    </a>
+</div>
+</p>
+<!-- <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
@@ -87,7 +82,7 @@
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DulanNB&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td> 
-</tr>
+</tr> -->
 
 </table>
 
