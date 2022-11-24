@@ -109,7 +109,7 @@
 <br>
   
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ruwanbandara&label=Profile%20views&color=brightgreen&style=plastic" alt="ruwanbandara" /> </p>    
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DulanNB&label=Profile%20views&color=brightgreen&style=plastic" alt="ruwanbandara" /> </p>    
   
 </p>
 
